@@ -33,6 +33,5 @@ Megalayer在四月推出多款超值优惠。活动包括年付VPS特价199元�
 | 新加坡   | 2核2G     | 1个原生IP   | 优化带宽3M | 349元/年  | [立即购买](https://account.megalayer.net/aff.php?aff=1835&pid=273)                  |
 | 新加坡   | 2核4G     | 1个原生IP   | 优化带宽3M | 449元/年  | [立即购买](https://account.megalayer.net/aff.php?aff=1835&pid=274)                  |
 
-       |
 ## Megalayer评测
 Megalayer的优惠活动涵盖多地区和多配置的服务器，适合不同需求的用户。香港服务器的CN2带宽优化和美国家宽VPS的折扣尤为吸引人，适合需要稳定外网连接的用户。此外，其年付VPS特价能显著减少长期成本，为预算有限的个人或小型企业提供了良好的选择。
